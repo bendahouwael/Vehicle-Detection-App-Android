@@ -14,9 +14,12 @@ This Android application is designed for real-time vehicle detection using OpenC
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vehicle-detection-app.git  
+   git clone https://github.com/your-username/vehicle-detection-app.git
+   
 2.Open the project in Android Studio.
+
 3.Ensure that OpenCV and TensorFlow Lite dependencies are correctly configured.
+
 4.Build and run the application on an Android device.
 
 ## Usage
